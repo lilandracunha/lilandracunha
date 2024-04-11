@@ -7,26 +7,20 @@
 ### Eu sou a Lilandra 👋
 #### Biomédica apaixonada por dados e Python que está em transição de carreira.
 
-A seguir você pode saber um pouquinho mais sobre minha formação:
+Inicialmente formada em biomedicina, durante a minha jornada descobri uma paixão por desvendar os mistérios dos dados e decidi caminhar para a área da Ciência de Dados. Assim como 42 é a resposta para entender a vida, o universo e tudo mais, estou empenhada em ser a resposta quando se busca um profissional de dados. Meu GitHub é o diário de bordo onde pretendo compartilhar projetos desenvolvidos durante a busca por conhecimento. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📊 MBA em Big Data e Inteligência Competitiva (Faculdade Descomplica, 2023)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🖥️ Pós-graduação em Análise e Desenvolvimento de Programas (Faculdade Descomplica, 2023)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📈 Pós-graduação em Data Science e Informática na Área da Saúde (Albert Einstein Instituto Israelita de Ensino e Pesquisa, 2019)
-
+A seguir você pode saber um pouquinho mais sobre a minha formação:\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📊 MBA em Big Data e Inteligência Competitiva (Faculdade Descomplica, 2023)\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🖥️ Pós-graduação em Análise e Desenvolvimento de Programas (Faculdade Descomplica, 2023)\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📈 Pós-graduação em Data Science e Informática na Área da Saúde (Albert Einstein Instituto Israelita de Ensino e Pesquisa, 2019)\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔬 Bacharelado em Biomedicina (Universidade de Mogi das Cruzes, 2014)
 <br><br>
 
-Neste momento estou ampliando meu conhecimento através de formações e cursos listados abaixo:
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⭐ Bootcamp Potência Tech powered by iFood | Ciências de Dados com Python (DIO, 2023)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📚 Certificação Análise de Dados do Google (Coursera, 2023)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎓 Formação SQL Database Specialist (DIO, 2023)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎓 Formação Python Developer (DIO, 2023)
+Neste momento estou ampliando meu conhecimento através dos cursos listados abaixo:\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⭐ Bootcamp Python Data Analytics (DIO, 2024)\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⭐ Bootcamp Microsoft Azure AI Fundamentals (DIO, 2024)\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⭐ Bootcamp Python AI Backend Developer (DIO, 2024)\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎓 Formação Python Developer (DIO, 2024)
 <br><br>
 
 Ferramentas e tecnologias conhecidas a serem aperfeiçoadas:
