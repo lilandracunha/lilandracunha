@@ -16,8 +16,9 @@ A seguir você pode saber um pouquinho mais sobre a minha formação:\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔬 Bacharelado em Biomedicina (Universidade de Mogi das Cruzes, 2014)
 <br><br>
 
+
+<img src="https://github.com/lilandracunha/lilandracunha/blob/main/assets/getimg-lilacGeneratedImage.png" align="right" height="250" width="250"/>\
 Neste momento estou ampliando meu conhecimento através dos cursos listados abaixo:\
-<img src="https://github.com/lilandracunha/lilandracunha/blob/main/assets/getimg-lilacGeneratedImage.png" align="right" height="300" width="300"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⭐ Bootcamp Python Data Analytics (DIO, 2024)\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⭐ Bootcamp Microsoft Azure AI Fundamentals (DIO, 2024)\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⭐ Bootcamp Python AI Backend Developer (DIO, 2024)\
