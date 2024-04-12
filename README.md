@@ -17,6 +17,7 @@ A seguir você pode saber um pouquinho mais sobre a minha formação:\
 <br><br>
 
 Neste momento estou ampliando meu conhecimento através dos cursos listados abaixo:\
+<img src="https://github.com/lilandracunha/lilandracunha/blob/main/assets/getimg-lilacGeneratedImage.png" align="right" height="300" width="300"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⭐ Bootcamp Python Data Analytics (DIO, 2024)\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⭐ Bootcamp Microsoft Azure AI Fundamentals (DIO, 2024)\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⭐ Bootcamp Python AI Backend Developer (DIO, 2024)\
@@ -25,7 +26,7 @@ Neste momento estou ampliando meu conhecimento através dos cursos listados abai
 
 Ferramentas e tecnologias conhecidas a serem aperfeiçoadas:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="30"/>         
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="30"/>         
 <br><br>
 
 Entre em contato comigo! 📧 <br> 
